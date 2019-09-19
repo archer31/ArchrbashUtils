@@ -1,0 +1,33 @@
+[
+  {
+    "dest_filename": ".bashrc",
+    "dest": "~/",
+    "orig_filename": "bash.config"
+  },
+  {
+    "dest_filename": ".vimrc",
+    "dest": "~/",
+    "orig_filename": "vim.config"
+  },
+  {
+    "dest_filename": ".gitconfig",
+    "dest": "~/",
+    "orig_filename": "git.config"
+  },
+  {
+    "dest_filename": ".tmux.conf",
+    "dest": "~/",
+    "orig_filename": "tmux.config"
+  },
+  {
+    "dest_filename": "config",
+    "dest": "~/.config/i3status/",
+    "orig_filename": "i3status.config"
+  },
+  {
+    "dest_filename": "config",
+    "dest": "~/.config/i3/",
+    "orig_filename": "i3.config"
+  }
+
+]
