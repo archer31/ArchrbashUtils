@@ -7,6 +7,6 @@ setuptools.setup(
   name='ArchrBashUtils',
   description='A set of bash utilities that I made for convenience',
   long_description=long_description,
-  version='0.0.0',
+  version='0.4.0',
   packages=setuptools.find_packages()
 )
