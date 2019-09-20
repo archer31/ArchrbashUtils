@@ -1,1 +1,1 @@
-name='configfiles'
+name = 'configfiles'
